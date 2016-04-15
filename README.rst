@@ -4,7 +4,7 @@ Installation
 ::
 
     pip install templer.core==1.0b4
-    pip install git+https://github.com/koslab/pysiphae.git
+    pip install git+https://github.com/mymampu/customvis.git
 
 
 Creating a dash plugin project
@@ -12,7 +12,7 @@ Creating a dash plugin project
 
 Initialize::
 
-    templer pysiphae_project mynamespace.myproject
+    templer pysiphae mynamespace.myproject
     cd mynamespace.myproject/
     virtualenv venv/
     ./venv/bin/python bootstrap-buildout.py
