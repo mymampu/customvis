@@ -36,4 +36,4 @@ Start development server::
 Detail Documentation
 ====================
 
-http://pysiphae.readthedocs.io/en/latest/
+http://customvis.readthedocs.io/en/latest/
